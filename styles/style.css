@@ -86,14 +86,14 @@ div {
 	display:inline-block;
 	height:64px;
 	width:260px;
-	border: 2px solid #eaa258;
+	border: 2px solid #ff0000;
 	margin-top: 20px;
 	
 }
 
 div p {
 	font-family: 'Lato bold';
-	color:#eaa258;
+	color:#ff0000;
 	text-align:center;
 	letter-spacing: 3px;
 
